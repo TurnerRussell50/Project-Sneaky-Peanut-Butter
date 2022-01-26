@@ -1,5 +1,5 @@
 # Project-Sneaky-Peanut-Butter
-This is just a placeholder for a project I recently did called "Project Sneaky Peanut Butter" wherein I gathered 7 kinds of Peanut Butter and used a Spectral Triad Sensor https://learn.sparkfun.com/tutorials/spectral-triad-as7265x-hookup-guide?_ga=2.230455772.1578243289.1643145700-1853259630.1615791300
+This is a placeholder for a project I recently did called "Project Sneaky Peanut Butter" wherein I gathered 7 kinds of Peanut Butter, A RedBoard (Arduino), and a Spectral Triad Sensor https://learn.sparkfun.com/tutorials/spectral-triad-as7265x-hookup-guide?_ga=2.230455772.1578243289.1643145700-1853259630.1615791300
 
 to gather spectral signatures across 18-channels from peanut butter samples, in an attempt to classify/detect them with a Keras Model
 

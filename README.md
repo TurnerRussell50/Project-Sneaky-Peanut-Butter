@@ -5,6 +5,8 @@ to gather spectral signatures across 18-channels from peanut butter samples, in 
 
 
 Here is the data https://docs.google.com/spreadsheets/d/1_E5vRQhQIjnmQlrrsLSmfgA23quHl1xvFlmkLIFkn8g/edit?usp=sharing
+...and a legend for the wavelengths of the channels [AS7265x.pdf](https://github.com/TurnerRussell50/Project-Sneaky-Peanut-Butter/files/8009519/AS7265x.pdf)
+
 
 Not a strictly useful project, but I can run the ML model in real-time with an unknown sample and tell you which style of PB it is :-D 
 (If you spend some time simply exploring the data first-hand, a few things immediately stand out...Simply JIF has the highest R channel peak avaerage,  the "shape" of the A, F, R, and W peaks help delineate many out-right)
